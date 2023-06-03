@@ -1,1 +1,1 @@
-# Pattern_programs
+This file consists of different types of pattern programs
